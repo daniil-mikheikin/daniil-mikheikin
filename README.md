@@ -39,7 +39,7 @@
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniil-mikheikins&hide_border=true&background=0A1311&stroke=1E3B35&ring=74E6C6&fire=E6A543&currStreakLabel=74E6C6&sideLabels=9FE9D6&dates=3F7B6F&currStreakNum=D8FFF3&sideNums=D8FFF3&dayLabels=3F7B6F" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniil-mikheikin&hide_border=true&background=0A1311&stroke=1E3B35&ring=74E6C6&fire=E6A543&currStreakLabel=74E6C6&sideLabels=9FE9D6&dates=3F7B6F&currStreakNum=D8FFF3&sideNums=D8FFF3&dayLabels=3F7B6F" alt="streak" />
 
 </td>
 </tr>
