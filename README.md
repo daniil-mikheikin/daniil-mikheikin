@@ -11,7 +11,7 @@
 
 <br/>
 
-### `/ FIELD KIT`  ·  standard issue
+### `/ FIELD KIT`  ·  standard iss
 
 ![HTML](https://img.shields.io/badge/HTML-0A1311?style=for-the-badge&logo=html5&logoColor=74E6C6&labelColor=0A1311)
 ![CSS](https://img.shields.io/badge/CSS-0A1311?style=for-the-badge&logo=css3&logoColor=74E6C6&labelColor=0A1311)
